@@ -1,6 +1,6 @@
-**ScrubChess
+**ScrubChess**
 
-**-By: Andrew Kahn
+**-By: Andrew Kahn**
 
 **Project Abstract:**
 In the past year, there has been a huge explosion in the game of chess, reaching audiences on Youtube, Twitch, and even Netflix with their hit show "The Queen's Gambit". With this in mind, and with chess being a personal interest of mine, I have decided to develop my own chess app. This project requires two main components, a chess interface and a chess engine, both of which will be built from scratch. Initially this app will be built to play chess against the AI only, but human versus human play may be added in the future.
